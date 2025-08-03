@@ -32,3 +32,5 @@ const MaskGuideView({
   this.offset = Offset.zero,
 });
 ```
+
+![exp](./docs/img/exp.png)

@@ -11,7 +11,10 @@ topics:
   - MaskGuide
   - Tooltip
   - Mask
-  - Guide
+  - Tutorial
+  - Overlay 
+  - Hint
+  - Highlight
 
 screenshots:
   - description: "Examples is runing"
