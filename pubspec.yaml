@@ -21,7 +21,7 @@ screenshots:
     path: docs/img/exp.png
 
 environment:
-  sdk: ">=2.0.0"
+  sdk: ">=2.12.0"
   flutter: ">=1.17.0"
 
 dependencies:
