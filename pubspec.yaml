@@ -1,0 +1,33 @@
+name: mask_guide_view
+description: "mask guide view."
+version: 0.0.1
+
+homepage: https://github.com/jawa0919/mask_guide_view
+repository: https://github.com/jawa0919/mask_guide_view
+issue_tracker: https://github.com/jawa0919/mask_guide_view/issues
+
+
+topics:
+  - MaskGuide
+  - Tooltip
+  - Mask
+  - Guide
+
+screenshots:
+  - description: "Examples is runing"
+    path: docs/img/exp.png
+
+environment:
+  sdk: ">=2.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
